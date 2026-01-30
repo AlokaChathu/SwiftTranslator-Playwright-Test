@@ -20,7 +20,7 @@ NPM (Included with Node.js)
 
 1.  **Clone the repository** (or unzip the project folder):
     ```bash
-    git clone https://github.com/theshanGeeth123/SwiftTranslator-Playwright-Test.git
+    git clone https://github.com/AlokaChathu/SwiftTranslator-Playwright-Test.git
     ```
 
 2.  **Install project dependencies:**
